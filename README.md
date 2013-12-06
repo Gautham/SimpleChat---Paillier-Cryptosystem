@@ -1,0 +1,1 @@
+Sample chat application made using Java, JSP & HTML5 + CSS + JS to showcase the use of the Paillier Cryptosystem, a Public Key Encryption algorithm.
